@@ -1,0 +1,22 @@
+{
+  "name": "detect-device-type",
+  "version": "1.0.0",
+  "description": "Detect device type",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/vinayagamkrishnan1/detect-device-type.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayagamkrishnan1/detect-device-type.git"
+  },
+  "keywords": [
+    "DDT"
+  ],
+  "author": "Vinayagam Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayagamkrishnan1/detect-device-type/issues"
+  },
+  "homepage": "https://github.com/vinayagamkrishnan1/detect-device-type#readme"
+}
